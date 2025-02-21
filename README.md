@@ -45,5 +45,3 @@ Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests
 
 ---
 
-📩 For any inquiries, contact: [your email or GitHub link]
-
